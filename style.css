@@ -10,6 +10,12 @@ body {
   }
 }
 
+@media (max-width: 576px) {
+  body {
+    zoom: 50%;
+  }
+}
+
 .page-light {
   background-color: #F9F6F1;
 }
